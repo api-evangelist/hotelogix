@@ -1,0 +1,86 @@
+aid: hotelogix
+name: Hotelogix
+description: >-
+  Hotelogix is a cloud-based hotel property management system (PMS)
+  headquartered in Noida, India, serving more than 12,000 independent hotels,
+  groups, chains, and resorts across 100+ countries since 2008. The platform
+  provides front desk management, reservations, point-of-sale, housekeeping,
+  revenue management, multi-property and group management, a web booking
+  engine, a guest service mobile app, and an integrated channel manager that
+  distributes inventory to OTAs and GDS. Hotelogix exposes a partner Web API
+  (HAPI) at developer.hotelogix.net that uses XML POST over HTTP rather than
+  REST/JSON, enabling channel managers, payment gateways, accounting systems,
+  CRMs, loyalty programs, door locks, ID scanners, and in-room devices to
+  integrate with the PMS. Documentation is split into Web (booking engine),
+  Admin, and Frontdesk surfaces. There is no public OpenAPI specification,
+  no public SDK, and no public GitHub org content; partner access and
+  credentials are granted on request through the Hotelogix support and
+  partnership teams. Revenue model is SaaS subscriptions per hotel/room
+  along with an integration marketplace ecosystem.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Hospitality
+  - Hotels
+  - Property Management System
+  - PMS
+  - Cloud PMS
+  - Hotel Software
+  - Channel Manager
+  - Booking Engine
+  - Reservations
+  - Front Desk
+  - Point Of Sale
+  - Housekeeping
+  - Revenue Management
+  - OTA
+  - GDS
+  - Travel
+  - India
+url: https://raw.githubusercontent.com/api-evangelist/hotelogix/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hotelogix.com
+  - type: DeveloperPortal
+    url: https://developer.hotelogix.net
+  - type: WebAPIDocumentation
+    url: https://developer.hotelogix.net/out/hapi/wb/
+  - type: AdminAPIDocumentation
+    url: https://developer.hotelogix.net/out/hapi/ad/
+  - type: FrontdeskAPIDocumentation
+    url: https://developer.hotelogix.net/out/hapi/fd/
+  - type: Marketplace
+    url: https://www.hotelogix.com/partner
+  - type: Integrations
+    url: https://www.hotelogix.com/integrations.php
+  - type: Features
+    url: https://www.hotelogix.com/features.php
+  - type: Pricing
+    url: https://www.hotelogix.com/pricing.php
+  - type: Blog
+    url: https://blog.hotelogix.com
+  - type: Support
+    url: https://www.hotelogix.com/support.php
+  - type: About
+    url: https://www.hotelogix.com/about-us.php
+  - type: Contact
+    url: https://www.hotelogix.com/contact-us.php
+  - type: Careers
+    url: https://www.hotelogix.com/careers.php
+  - type: Twitter
+    url: https://twitter.com/hotelogix
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hotelogix
+  - type: Facebook
+    url: https://www.facebook.com/Hotelogix
+  - type: YouTube
+    url: https://www.youtube.com/user/Hotelogix
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
