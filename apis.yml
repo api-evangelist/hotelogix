@@ -18,6 +18,17 @@ description: >-
   partnership teams. Revenue model is SaaS subscriptions per hotel/room
   along with an integration marketplace ecosystem.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
